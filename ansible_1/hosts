@@ -1,0 +1,4 @@
+[db_servers]
+
+172.16.8.88 ansible_ssh_user=ansible ansible_ssh_pass=ansible
+
